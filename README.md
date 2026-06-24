@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ABHISHEKGSOLANKI/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/ABHISHEKGSOLANKI/leetcode/tree/master/0189-rotate-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ABHISHEKGSOLANKI/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/ABHISHEKGSOLANKI/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ABHISHEKGSOLANKI/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ABHISHEKGSOLANKI/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/ABHISHEKGSOLANKI/leetcode/tree/master/0189-rotate-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/ABHISHEKGSOLANKI/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ABHISHEKGSOLANKI/leetcode/tree/master/0015-3sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/ABHISHEKGSOLANKI/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
