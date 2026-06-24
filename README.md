@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ABHISHEKGSOLANKI/leetcode/tree/master/0189-rotate-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ABHISHEKGSOLANKI/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/ABHISHEKGSOLANKI/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ABHISHEKGSOLANKI/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ABHISHEKGSOLANKI/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ABHISHEKGSOLANKI/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ABHISHEKGSOLANKI/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Math
 |  |
 | ------- |
