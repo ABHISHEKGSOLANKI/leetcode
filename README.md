@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ABHISHEKGSOLANKI/leetcode/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/ABHISHEKGSOLANKI/leetcode/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ABHISHEKGSOLANKI/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ABHISHEKGSOLANKI/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ABHISHEKGSOLANKI/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/ABHISHEKGSOLANKI/leetcode/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ABHISHEKGSOLANKI/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
